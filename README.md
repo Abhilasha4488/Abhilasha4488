@@ -92,6 +92,7 @@
 * Identifies skill gaps and recommends suitable job roles.
 * Generates downloadable resume analysis reports.
 * Stores resume and analysis information using SQLite.
+* 🔗 View Repository
 
 ---
 
@@ -104,6 +105,7 @@
 * Added JWT-based authentication and protected routes.
 * Implemented tab-switch detection and webcam monitoring for proctored evaluations.
 * Used MongoDB for application data management.
+* 🔗 View Repository
 
 ---
 
@@ -116,6 +118,7 @@
 * Implemented search and filtering functionality.
 * Added trailer preview functionality.
 * Implemented watch-history persistence using LocalStorage.
+* View Repository
 
 ---
 
