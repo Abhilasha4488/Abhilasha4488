@@ -247,18 +247,15 @@ AMC Engineering College, VTU Bengaluru
 
 ## 🌐 Connect With Me
 
-<div align="center">
+div align="center">
 
-<a href="https://github.com/Abhilasha4488">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/Abhilasha4488"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<a href="https://linkedin.com/in/abhilasha-kumari-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/abhilasha-kumari-dev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<a href="mailto:mk684996@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 </div>
-
 ---
 
 <div align="center">
