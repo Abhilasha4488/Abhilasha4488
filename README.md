@@ -1,38 +1,37 @@
-# Hi 👋, I'm Abhilasha Kumari
+<div align="center">
 
-### Software Developer | Python Developer | Full-Stack Web Developer
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhilasha+Kumari" alt="Hi, I'm Abhilasha Kumari" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abhilasha4488&label=Profile%20Views&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=750&height=50&lines=Software+Developer;Python+Developer;Full-Stack+Web+Developer;Backend+Developer;Building+Practical+Software+Solutions" alt="Animated Roles" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abhilasha4488&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Engineering graduate from **AMC Engineering College, Bengaluru**
-
-💻 Software Developer focused on **Python, backend development, and full-stack web development**
-
-🐍 Hands-on experience with **Python, Java, JavaScript, Flask, React, Node.js, and REST APIs**
-
-🗄️ Experienced with **MySQL, MongoDB, and SQLite**
-
-🤖 Interested in **AI/ML applications, backend systems, and practical software solutions**
-
-🚀 Passionate about learning, building, and solving real-world problems
+* 🎓 BE Computer Science & Engineering graduate — 2026
+* 💻 Interested in **Software Development, Python Development & Full-Stack Development**
+* 🐍 Building backend applications and database-driven systems with **Python and Flask**
+* 🌐 Experienced with modern web technologies including **React, Node.js and REST APIs**
+* ☕ Hands-on experience with **Java, Servlets, JSP and MySQL**
+* 🤖 Interested in applying **Machine Learning and AI** to practical applications
+* 🚀 Currently looking for **entry-level Software Developer opportunities**
 
 ---
 
-## 🎯 Core Expertise
+## 🚀 What I Do
 
 ```text
-Python Development        ████████████████
-Full-Stack Development    ███████████████
-Backend Development       ███████████████
-Web Development           ██████████████
-Database Development      █████████████
-AI / Machine Learning     ███████████
+💻 Software Development       ████████████████████ 100%
+🐍 Python & Backend           ███████████████████  95%
+🌐 Full-Stack Web Development ██████████████████   90%
+🗄️ Database Development       █████████████████    85%
+🤖 AI / Machine Learning      ███████████████      75%
 ```
 
 ---
@@ -42,93 +41,81 @@ AI / Machine Learning     ███████████
 ### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
-### 🌐 Web & Backend
+**Python • Java • C • JavaScript • SQL**
+
+### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,flask" />
 </p>
 
-### 🗄️ Databases
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+**HTML • CSS • Bootstrap • React • Flask • Node.js • Express.js • REST APIs**
 
 ### 🤖 Data & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
+
+**Pandas • NumPy • Scikit-learn • TensorFlow • Matplotlib**
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+**MySQL • MongoDB • SQLite**
 
 ### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+**Git • GitHub • VS Code**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
+### 📄 AI Resume Analyzer
 
-A Flask-based resume analysis platform supporting **PDF parsing, ATS scoring, skill extraction, gap analysis, job recommendations, and PDF report generation**.
+**Python • Flask • SQLite • PyMuPDF • ReportLab**
 
-**Tech:** Python • Flask • SQLite • PyMuPDF • ReportLab
-
-🔗 **[View Repository](https://github.com/Abhilasha4488/AI-Resume-Analyzer)**
+* Built an AI-powered resume analysis platform.
+* Extracts text and skills from uploaded PDF resumes.
+* Calculates ATS compatibility scores.
+* Identifies skill gaps and recommends suitable job roles.
+* Generates downloadable resume analysis reports.
+* Stores resume and analysis information using SQLite.
 
 ---
 
 ### 💻 EduCode — Programming Education Platform
 
-A full-stack programming education platform featuring **live code execution, collaborative coding, JWT authentication, tab-switch detection, and webcam-based proctoring**.
+**Node.js • Express.js • MongoDB • Socket.io • JWT**
 
-**Tech:** Node.js • Express.js • MongoDB • Socket.io • JWT
-
-🔗 **[View Repository](https://github.com/Abhilasha4488/EduCode)**
+* Developed an interactive platform for learning and practicing programming.
+* Implemented real-time code execution and collaborative coding.
+* Added JWT-based authentication and protected routes.
+* Implemented tab-switch detection and webcam monitoring for proctored evaluations.
+* Used MongoDB for application data management.
 
 ---
 
 ### 🎬 MovieFlix — Streaming Dashboard
 
-A responsive movie and web-series dashboard with **TMDB API integration, search, filtering, trailer previews, and persistent watch history**.
+**JavaScript • HTML • CSS • TMDB API • LocalStorage**
 
-**Tech:** JavaScript • HTML • CSS • TMDB API • LocalStorage
-
-🔗 **[View Repository](https://github.com/Abhilasha4488/MovieFlix)**
-
----
-
-## 🚀 Currently Working On
-
-```text
-▸ Improving Python & Flask development
-▸ Building full-stack web applications
-▸ Developing AI-powered applications
-▸ Strengthening backend & REST API development
-▸ Improving software engineering skills
-```
+* Built a responsive movie streaming dashboard.
+* Integrated the TMDB API for movie discovery and information.
+* Implemented search and filtering functionality.
+* Added trailer preview functionality.
+* Implemented watch-history persistence using LocalStorage.
 
 ---
 
@@ -136,86 +123,152 @@ A responsive movie and web-series dashboard with **TMDB API integration, search,
 
 ### Software Development Intern — Tap Academy
 
-**Jan 2026 – Aug 2026**
+**Jan 2026 – Aug 2026 | Bengaluru**
 
-Worked on a full-stack e-commerce web application using Java, Servlets, JSP, HTML, CSS, JavaScript, and MySQL, implementing authentication, product management, shopping cart, and order processing.
+* Developed a full-stack e-commerce web application using Java, Servlets, JSP, HTML, CSS, JavaScript and MySQL.
+* Implemented authentication, product management, shopping cart and order-processing features.
+* Followed MVC architecture for application development.
+* Integrated MySQL for persistent application data.
 
 ### Data Science Intern — Internship Studio
 
-**Feb 2025 – Mar 2025**
+**Feb 2025 – Mar 2025 | Remote**
 
-Worked with Python, SQL, Pandas, and NumPy for data processing and exploratory analysis, along with machine learning and data visualization.
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering — Computer Science and Engineering**
-
-**AMC Engineering College, VTU — Bengaluru**
-
-`2022 – 2026` • **CGPA: 8.0/10**
+* Performed data cleaning, transformation and exploratory data analysis using Python, Pandas and NumPy.
+* Built machine learning workflows using Scikit-learn and TensorFlow.
+* Created data visualizations using Matplotlib, Tableau and Power BI.
+* Worked with structured datasets to derive meaningful insights.
 
 ---
 
-## 🏆 Certifications
+## 🎯 Currently Exploring
 
-* Google — Android Developer Virtual Internship
-* AWS — Cloud Virtual Internship
-* Google — AI/ML Virtual Internship
-* Palo Alto — Cybersecurity Virtual Internship
-* Zscaler — Zero Trust Cloud Security Virtual Internship
-* Tata — Cybersecurity Analyst Job Simulation
-* IBM — Cybersecurity Fundamentals
-* ICT Academy — RPA Certification Course
-* UiPath — Automation Implementation Methodology Fundamentals
+```text
+🔹 Advanced Python & Backend Development
+🔹 REST API Development
+🔹 Full-Stack Web Applications
+🔹 AI / Machine Learning Applications
+🔹 Cloud & Deployment
+🔹 Software Engineering Best Practices
+```
+
+---
+
+## 💻 Developer Terminal
+
+```python
+class AbhilashaKumari:
+
+    name = "Abhilasha Kumari"
+    role = "Software Developer"
+
+    skills = [
+        "Python",
+        "Java",
+        "JavaScript",
+        "Flask",
+        "React",
+        "Node.js",
+        "SQL",
+        "MongoDB"
+    ]
+
+    interests = [
+        "Software Development",
+        "Backend Development",
+        "Full-Stack Development",
+        "AI / Machine Learning"
+    ]
+
+    def say_hello(self):
+        print("Thanks for visiting my GitHub! 🚀")
+
+
+developer = AbhilashaKumari()
+developer.say_hello()
+```
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhilasha4488&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilasha4488&layout=compact&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhilasha4488&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilasha4488&layout=compact&theme=transparent&hide_border=true" height="170" />
+
+</div>
 
 ---
 
-## 💻 Terminal
+## 🔥 GitHub Streak
 
-```bash
-$ whoami
-Abhilasha Kumari
+<div align="center">
 
-$ role
-Software Developer
+<img src="https://streak-stats.demolab.com?user=Abhilasha4488&theme=transparent&hide_border=true" />
 
-$ primary_stack
-Python • Flask • Java • JavaScript • React • Node.js
-
-$ databases
-MySQL • MongoDB • SQLite
-
-$ focus
-Full-Stack Development & Backend Engineering
-
-$ goal
-Build practical and scalable software applications
-```
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://github.com/Abhilasha4488">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/abhilasha-kumari-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
+<img src="https://raw.githubusercontent.com/Abhilasha4488/Abhilasha4488/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+* Google for Developers — Android Developer Virtual Internship
+* AWS Cloud — Virtual Internship
+* Tata — Cybersecurity Analyst Job Simulation
+* Palo Alto — Cybersecurity Virtual Internship
+* Google for Developers — AI/ML Virtual Internship
+* Zscaler — Zero Trust Cloud Security Virtual Internship
+* ICT Academy — RPA Certification Course
+* UiPath — Automation Implementation Methodology Fundamentals
+* IBM — Cybersecurity Fundamentals
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Computer Science & Engineering**
+
+AMC Engineering College, VTU Bengaluru
+**2022 – 2026 | CGPA: 8.0/10**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Abhilasha4488">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/abhilasha-kumari-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Motto
+
+**"Build. Learn. Improve. Repeat. 🚀"**
+
+<br>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
