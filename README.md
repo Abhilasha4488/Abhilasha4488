@@ -216,16 +216,6 @@ developer.say_hello()
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhilasha4488/Abhilasha4488/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 * Google for Developers — Android Developer Virtual Internship
