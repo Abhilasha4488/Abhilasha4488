@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhilasha Kumari</h1>
+# Hi 👋, I'm Abhilasha Kumari
 
-<h3 align="center">Software Developer | Python Developer | Full-Stack Web Developer</h3>
+### Software Developer | Python Developer | Full-Stack Web Developer
 
-<p align="center">
-  <a href="https://github.com/Abhilasha4488">
-    <img src="https://komarev.com/ghpvc/?username=Abhilasha4488&label=Profile%20Views&style=flat" alt="Profile Views"/>
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhilasha4488&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -14,79 +12,78 @@
 
 🎓 Computer Science Engineering graduate from **AMC Engineering College, Bengaluru**
 
-💻 Focused on **software development, Python development, and full-stack web development**
+💻 Software Developer focused on **Python, backend development, and full-stack web development**
 
-🐍 Hands-on experience with **Python, Flask, Java, JavaScript, React, Node.js, and REST APIs**
+🐍 Hands-on experience with **Python, Java, JavaScript, Flask, React, Node.js, and REST APIs**
 
-🗄️ Experienced in building **database-driven applications** using MySQL, MongoDB, and SQLite
+🗄️ Experienced with **MySQL, MongoDB, and SQLite**
 
-🚀 Interested in building practical applications, backend systems, and AI-powered solutions
+🤖 Interested in **AI/ML applications, backend systems, and practical software solutions**
 
-📍 Bengaluru, India
+🚀 Passionate about learning, building, and solving real-world problems
 
 ---
 
-## 🎯 What I Do
+## 🎯 Core Expertise
 
-* 💻 Build full-stack web applications
-* 🐍 Develop backend applications using Python and Flask
-* 🔌 Design and integrate REST APIs
-* 🗄️ Work with SQL and NoSQL databases
-* 🤖 Build AI/ML-based applications
-* 🔐 Implement authentication and application security features
-* 📊 Work with data analysis and visualization
+```text
+Python Development        ████████████████
+Full-Stack Development    ███████████████
+Backend Development       ███████████████
+Web Development           ██████████████
+Database Development      █████████████
+AI / Machine Learning     ███████████
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### 🌐 Web & Backend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### 🤖 Data & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -95,7 +92,7 @@
 
 ### 🤖 AI Resume Analyzer
 
-A Flask-based resume analysis platform that parses resumes, evaluates ATS compatibility, extracts skills, identifies gaps, and provides job recommendations.
+A Flask-based resume analysis platform supporting **PDF parsing, ATS scoring, skill extraction, gap analysis, job recommendations, and PDF report generation**.
 
 **Tech:** Python • Flask • SQLite • PyMuPDF • ReportLab
 
@@ -105,7 +102,7 @@ A Flask-based resume analysis platform that parses resumes, evaluates ATS compat
 
 ### 💻 EduCode — Programming Education Platform
 
-A full-stack programming education platform with live code execution, collaborative coding, JWT authentication, and proctored assessments.
+A full-stack programming education platform featuring **live code execution, collaborative coding, JWT authentication, tab-switch detection, and webcam-based proctoring**.
 
 **Tech:** Node.js • Express.js • MongoDB • Socket.io • JWT
 
@@ -115,7 +112,7 @@ A full-stack programming education platform with live code execution, collaborat
 
 ### 🎬 MovieFlix — Streaming Dashboard
 
-A responsive movie and web-series dashboard featuring TMDB API integration, search, filtering, trailer previews, and persistent watch history.
+A responsive movie and web-series dashboard with **TMDB API integration, search, filtering, trailer previews, and persistent watch history**.
 
 **Tech:** JavaScript • HTML • CSS • TMDB API • LocalStorage
 
@@ -123,30 +120,31 @@ A responsive movie and web-series dashboard featuring TMDB API integration, sear
 
 ---
 
-## 🚀 Currently Exploring
+## 🚀 Currently Working On
 
 ```text
-Python & Flask
-Backend Development
-REST API Development
-Full-Stack Web Applications
-AI/ML Applications
-Software Engineering
+▸ Improving Python & Flask development
+▸ Building full-stack web applications
+▸ Developing AI-powered applications
+▸ Strengthening backend & REST API development
+▸ Improving software engineering skills
 ```
 
 ---
 
 ## 💼 Experience
 
-**Software Development Intern — Tap Academy**
-`Jan 2026 – Aug 2026`
+### Software Development Intern — Tap Academy
 
-Full-stack e-commerce application development using Java, Servlets, JSP, HTML, CSS, JavaScript, and MySQL.
+**Jan 2026 – Aug 2026**
 
-**Data Science Intern — Internship Studio**
-`Feb 2025 – Mar 2025`
+Worked on a full-stack e-commerce web application using Java, Servlets, JSP, HTML, CSS, JavaScript, and MySQL, implementing authentication, product management, shopping cart, and order processing.
 
-Data processing, exploratory analysis, machine learning, and visualization using Python, SQL, Pandas, NumPy, Scikit-learn, Tableau, and Power BI.
+### Data Science Intern — Internship Studio
+
+**Feb 2025 – Mar 2025**
+
+Worked with Python, SQL, Pandas, and NumPy for data processing and exploratory analysis, along with machine learning and data visualization.
 
 ---
 
@@ -154,9 +152,9 @@ Data processing, exploratory analysis, machine learning, and visualization using
 
 **Bachelor of Engineering — Computer Science and Engineering**
 
-AMC Engineering College, VTU • Bengaluru, Karnataka
+**AMC Engineering College, VTU — Bengaluru**
 
-`2022 – 2026` | **CGPA: 8.0/10**
+`2022 – 2026` • **CGPA: 8.0/10**
 
 ---
 
@@ -183,7 +181,7 @@ AMC Engineering College, VTU • Bengaluru, Karnataka
 
 ---
 
-## 💻 Developer Terminal
+## 💻 Terminal
 
 ```bash
 $ whoami
@@ -219,5 +217,5 @@ Build practical and scalable software applications
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <b>⭐ Thanks for visiting my profile!</b>
 </p>
