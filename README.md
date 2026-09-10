@@ -247,7 +247,10 @@ div align="center">
 
 <a href="https://linkedin.com/in/abhilasha-kumari-dev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<a href="https://abhilashaportfoliodev.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a>
+<a href="https://abhilashaportfoliodev.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=briefcase&logoColor=white" />
+</a>
+
 
 <a href="mailto:mk684996@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
